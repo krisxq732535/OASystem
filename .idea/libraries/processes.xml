@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="processes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/processes/leave.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/processes/apply.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
