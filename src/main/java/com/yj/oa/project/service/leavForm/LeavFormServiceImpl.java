@@ -46,7 +46,6 @@ public class LeavFormServiceImpl implements ILeavFormService{
     @Autowired
     IdentityService identityService;
 
-
     @Autowired
     ActHiActinstMapper actHiActinstMapper;
 

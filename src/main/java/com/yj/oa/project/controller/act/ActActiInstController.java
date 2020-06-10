@@ -31,7 +31,6 @@ public class ActActiInstController extends BaseController{
     @Autowired
     IUserService iUserService;
 
-
     /**
      *
      * @描述: 通过实例Id 获取该活动信息
