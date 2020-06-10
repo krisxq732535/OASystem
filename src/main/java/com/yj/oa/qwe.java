@@ -1,4 +1,4 @@
 package com.yj.oa;
 
-public class mY {
+public class qwe {
 }
